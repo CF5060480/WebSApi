@@ -1,0 +1,7 @@
+com\atossyntel\entities\User.class
+com\atossyntel\webapi\ServletInitializer.class
+com\atossyntel\webapi\WebApiApplication.class
+com\atossyntel\connection\UserDAO.class
+com\atossyntel\connection\JDBCInterface.class
+com\atossyntel\connection\UserJDBCOps.class
+com\atossyntel\webapi\Controller.class
